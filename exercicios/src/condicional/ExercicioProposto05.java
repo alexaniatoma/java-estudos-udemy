@@ -41,7 +41,7 @@ public class ExercicioProposto05 {
 			total = 1.50 * quantidade;
 		} 
 		else {
-			System.out.println("código inválido");
+			System.out.println("Código inválido");
 		}
 		
 		System.out.printf("Codigo %d Quantidade %d Total R$%.2f" , codigo, quantidade, total);
