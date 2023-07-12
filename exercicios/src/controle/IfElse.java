@@ -11,9 +11,9 @@ public class IfElse {
 		int numero = Integer.parseInt(valor);
 		
 		if(numero % 2 == 0) {
-			System.out.println("numero par");
+			System.out.println("Numero par");
 		} else {
-			System.out.println("numero ímpar");
+			System.out.println("Numero ímpar");
 		}
 	}
 
