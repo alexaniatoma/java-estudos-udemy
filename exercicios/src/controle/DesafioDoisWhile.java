@@ -15,15 +15,13 @@ public class DesafioDoisWhile {
 		nota = entrada.nextDouble();	
 		
 		if(nota >=0 && nota <=10) {
-			total+=nota;
+			
+			total +=nota;
 			quantidadeDeNotas ++;
 			
 		}
 		
-		
-		
-		
-		}
+	  }
 		double media = total / quantidadeDeNotas;
 		System.out.println("A media das notas é " + media);
 	
