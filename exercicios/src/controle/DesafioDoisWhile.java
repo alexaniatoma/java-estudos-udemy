@@ -28,7 +28,4 @@ public class DesafioDoisWhile {
 		entrada.close();
 	}
 	
-	
-	
-
 }
