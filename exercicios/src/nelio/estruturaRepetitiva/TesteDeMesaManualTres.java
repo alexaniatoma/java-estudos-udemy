@@ -1,6 +1,6 @@
 package nelio.estruturaRepetitiva;
 
-public class TesteDeMesaTres {
+public class TesteDeMesaManualTres {
 
 	public static void main(String[] args) {
 		
