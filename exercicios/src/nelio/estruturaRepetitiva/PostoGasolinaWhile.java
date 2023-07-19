@@ -25,7 +25,7 @@ public class PostoGasolinaWhile {
 		int codigoDigitado = scan.nextInt();
 
 			while(codigoDigitado != 4 ) {
-				if(codigoDigitado ==1) {
+				if(codigoDigitado == 1) {
 					alcool = alcool + 1;
 				}
 				else if(codigoDigitado == 2) {
